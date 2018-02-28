@@ -1,2 +1,2 @@
 # java-game
-2D video game coded purely in Java
+This is a top-down, 2D video game I coded in Java. The player controls a goblin while exploring a multi-leveled dungeon full of hazards (some moving, some not). The objective is to reach the end of a level alive. The player's goblin has a set number of health points per level and will take damage if they collide with a hazard -- if that health pool reaches 0, it's game over. Navigate using the WASD keys and execute attacks with the goblin's dagger using the arrow keys. 
